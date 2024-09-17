@@ -1,0 +1,25 @@
+header{
+    background-image: url(nhyv7czdbct81.webp);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 50%;
+    object-fit: cover;
+     
+}
+.perfil img {
+    background-image: url(nhyv7czdbct81.webp);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 50%;
+    object-fit: cover;
+    
+}
+body{
+    background-image: url(nhyv7czdbct81.webp);
+    border: 20px ;
+    border-color: black;
+    border-radius: 10px;
+    height:"100%"; width:"100%";
+}
